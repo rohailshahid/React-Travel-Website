@@ -9,7 +9,7 @@ const Banner = () => {
       <div className="home__container container grid">
         <Fade top>
           <div className="home__data">
-            <span className="home__data-subtitle">Discover your place</span>
+            <span className="home__data-subtitle">Discover your best place in Thailand</span>
             <h1 className="home__data-title">
               Explore The <br /> Best{" "}
               <b>
