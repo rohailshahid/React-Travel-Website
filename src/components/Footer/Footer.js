@@ -70,7 +70,7 @@ const Footer = () => {
           ))}
         </div>
         <div className="footer__rights">
-          <p className="footer__copy">© 2021 Bedimcode. All rigths reserved.</p>
+          <p className="footer__copy">© 2023 @dev. All rigths reserved.</p>
           <div className="footer__terms">
             <a href="#terms" className="footer__terms-link">
               Terms &amp; Agreements
