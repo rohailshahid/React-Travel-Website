@@ -9,9 +9,7 @@ const About = () => {
             More Information <br /> About The Best Beaches in Thailand
           </h2>
           <p className="about__description">
-            You can find the most beautiful and pleasant places at the best
-            prices with special discounts, you choose the place we will guide
-            you all the way to wait, get your place now.
+            Thailand is a Southeast Asian country. It's known for tropical beaches, opulent royal palaces, ancient ruins and ornate temples displaying figures of Buddha.
           </p>
           <a href="#places" className="button">
             Reserve a place
