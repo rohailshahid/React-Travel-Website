@@ -32,7 +32,7 @@ export const places = [
     {
         image: image4,
         rate: '4.8',
-        title: 'Buffalo Bay',
+        title: 'Sairee',
         subtitle: 'Thailand',
         price: '$2499',
     },
