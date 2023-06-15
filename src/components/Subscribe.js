@@ -9,7 +9,7 @@ const Subscribe = () => {
             Subscribe Our <br /> Newsletter
           </h2>
           <p className="subscribe__description">
-            Subscribe to our newsletter and get a special 30% discount.
+            Subscribe to our newsletter and get a special 50% discount.
           </p>
           <form className="subscribe__form">
             <input
