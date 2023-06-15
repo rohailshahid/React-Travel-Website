@@ -6,7 +6,7 @@ const About = () => {
       <div className="about__container container grid">
         <div className="about__data">
           <h2 className="section__title about__title">
-            More Information <br /> About The Best Beaches
+            More Information <br /> About The Best Beaches in Thailand
           </h2>
           <p className="about__description">
             You can find the most beautiful and pleasant places at the best
