@@ -1,6 +1,6 @@
 import React from "react";
-import image1 from "../assets/banner2.jpg";
-import image2 from "../assets/banner2.jpg";
+import image1 from "../assets/beach1.jpg";
+import image2 from "../assets/beach1.jpg";
 import Fade from "react-reveal/Fade";
 const Banner = () => {
   return (
