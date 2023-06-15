@@ -17,7 +17,7 @@ const Banner = () => {
               </b>
             </h1>
             <a href="#discover" className="button">
-              Explore
+              Explore More
             </a>
           </div>
         </Fade>
