@@ -13,7 +13,7 @@ const Banner = () => {
             <h1 className="home__data-title">
               Explore The <br /> Best{" "}
               <b>
-                Beautiful <br /> Beaches
+                Beautiful <br /> Beaches in Thailand
               </b>
             </h1>
             <a href="#discover" className="button">
