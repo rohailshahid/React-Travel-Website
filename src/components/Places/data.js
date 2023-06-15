@@ -40,7 +40,7 @@ export const places = [
         image: image5,
         rate: '4.8',
         title: 'Hua Hin',
-        subtitle: 'IThailand',
+        subtitle: 'Thailand',
         price: '$2499',
     },
     {

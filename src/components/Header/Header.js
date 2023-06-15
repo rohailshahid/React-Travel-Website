@@ -18,7 +18,7 @@ const Header = () => {
     <header className={`header ${scroll ? "scroll-header" : ""}`} id="header">
       <nav className={`nav container`}>
         <a href="index.html" className="nav__logo">
-          Travel
+        Universal Travels
         </a>
 
         <div
