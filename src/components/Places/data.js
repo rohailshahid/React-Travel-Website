@@ -25,7 +25,7 @@ export const places = [
     {
         image: image3,
         rate: '4.9',
-        title: 'Lamai',
+        title: 'Ao Prao',
         subtitle: 'Thailand',
         price: '$3499',
     },
