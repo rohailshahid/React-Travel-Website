@@ -57,7 +57,7 @@ const Banner = () => {
        
           <div className="home__info">
             <div>
-              <span className="home__info-title">5 best places to visit</span>
+              <span className="home__info-title">10 best places to visit</span>
               <a
                 href="#discover"
                 className="button button--flex button--link home__info-button"
