@@ -39,7 +39,7 @@ export const places = [
     {
         image: image5,
         rate: '4.8',
-        title: 'White Sand',
+        title: 'Hua Hin',
         subtitle: 'IThailand',
         price: '$2499',
     },
