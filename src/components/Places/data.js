@@ -11,7 +11,7 @@ export const places = [
     {
         image: image1,
         rate: '4.8',
-        title: 'Railay',
+        title: 'Chaweng Noi',
         subtitle: 'Thailand',
         price: '$2499',
     },
