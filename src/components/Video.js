@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";
-import video from "../assets/video.mp4";
+import video from "../assets/video2.mp4";
 const Video = () => {
   const [playing, setPlaying] = useState(false);
   const videoRef = useRef(null);
@@ -37,9 +37,8 @@ const Video = () => {
             onClick={handleVideoPress}
           >
             <i
-              className={`video__button-icon ${
-                !playing ? "ri-play-line" : "ri-pause-line"
-              }`}
+              className={`video__button-icon ${!playing ? "ri-play-line" : "ri-pause-line"
+                }`}
               id="video-icon"
             />
           </button>
