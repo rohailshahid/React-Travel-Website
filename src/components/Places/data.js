@@ -46,7 +46,7 @@ export const places = [
     {
         image: image6,
         rate: '5.0',
-        title: 'Laem Thong',
+        title: 'Maenam ',
         subtitle: 'Thailand',
         price: '$1599',
     },
